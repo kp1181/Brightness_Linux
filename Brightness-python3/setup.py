@@ -6,5 +6,5 @@ setup(
    author='Krishna Prasad',
    author_email='p.krishnaprasad007@gmail.com',
    packages=['src'],  #same as name
-   scripts = ['src/bt.py']
+   scripts = ['src/bt3.py']
 )
